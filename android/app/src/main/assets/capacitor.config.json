@@ -1,0 +1,7 @@
+{
+  "appId": "com.KatIncorporated.Snapaday",
+  "appName": "snapaday",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
